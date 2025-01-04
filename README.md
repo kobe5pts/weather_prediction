@@ -20,6 +20,7 @@ date        precipitation  temp_max  temp_min  wind   weather
 1/3/2012    0.8            11.7      7.2       2.3    rain
 1/4/2012    20.3           12.2      5.6       4.7    rain
 1/5/2012    1.3            8.9       2.8       6.1    rain
+```
 
 ## Goals
 - **Preprocess and analyze** the data for trends and patterns.
