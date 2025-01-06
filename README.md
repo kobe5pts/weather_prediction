@@ -44,7 +44,3 @@ date        precipitation  temp_max  temp_min  wind   weather
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Platform**: Jupyter Notebook for experimentation and visualization.
 
-## Future Work
-- **Expand the dataset** to include additional features such as humidity and pressure.
-- **Implement deep learning models** for more accurate predictions.
-- **Develop a web app** for real-time weather forecasting.
